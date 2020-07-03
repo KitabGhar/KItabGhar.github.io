@@ -30,7 +30,7 @@ disqus-identifier: Kitab-Ghar # add your shortname for Disqus Comment. For examp
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: online_kitab_ghar  # Add instagram username
 
 

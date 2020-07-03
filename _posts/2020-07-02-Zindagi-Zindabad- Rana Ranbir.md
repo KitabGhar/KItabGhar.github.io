@@ -18,7 +18,7 @@ ids: 1
 ਰਾਣਾ ਰਣਬੀਰ ਗਿਆਨਵਾਨ ਰੂਹਾਂ ਦੀ ਗੱਲ ਕਰਦੇ ਹਨ ਅਤੇ ਉਥੇ ਉਪਦੇਸ਼ ਅਤੇ ਸ਼ਬਦਾਂ ਤੋਂ ਸਾਨੂੰ ਪ੍ਰੇਰਣਾ ਮਿਲਦੀ ਹੈ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ ਉਹ ਹੈ ਕਿ ਹਰ ਇਕ ਲਈ ਰੋਜ਼ਮਰ੍ਹਾ ਦੀ ਜ਼ਿੰਦਗੀ ਨੂੰ ਪੜ੍ਹਨ ਦੀ ਆਦਤ ਇਸ ਦੇਸ਼ ਦੀ ਪੀੜ੍ਹੀ ਨੂੰ ਬਦਲ ਦੇਵੇਗੀ, ਅਤੇ ਉਹ ਪੀੜ੍ਹੀ ਸਮੁੱਚੇ ਦੇਸ਼ ਨੂੰ ਬਦਲ ਦੇਵੇਗੀ.</strong><br><br>
 
 
-<h4><a class="add-cart cart2" href="/{{ site.baseurl }}/books#1"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart2" href="https://kitabghar.github.io/Kitab_Ghar/books/#1"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>

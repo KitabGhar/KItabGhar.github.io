@@ -25,10 +25,10 @@ function myFunction() {
 final="<html><h2>Name : "+first_name+" "+last_name+"</h2><h2>Email : "+email+"</h2><h2>Phone : "+phone+"</h2><h2>Address : "+address+"</h2><h2>State : "+state+"</h2><h2>City : "+city+"</h2><h2>Pin Code : "+pincode+"</h2><br></br><h1>Order Details</h1>"+productIncart+"</html>"
 console.log(email);
   clientFinal="<html><h1>Your Order has been placed</h1><h1>Order Details</h1>"+productIncart+"</html>"
-  // sendEmail(clientEmail,final,newOrder);
-  // sendEmail(email,final,orderPlaced);
+  sendEmail(clientEmail,final,newOrder);
+  sendEmail(email,final,orderPlaced);
   localStorage.clear()
-  location.replace("https://www.youtube.com/")
+  
   }
 
   function sendEmail(x,y,z) {

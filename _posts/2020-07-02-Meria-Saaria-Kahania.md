@@ -3,7 +3,7 @@ layout: post
 title:  Meria-Saaria-Kahania
 date:   2020-07-1 15:01:35 +0300
 image:  16.jpg
-tags:   Novel
+tags:   novel
         jaswant-singh-kanwal
 price: 495
 ids : 15
@@ -17,7 +17,7 @@ ids : 15
 </strong>
 
 
-<h4><a class="add-cart cart1" href="/{{ site.baseurl }}/books#15"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="https://kitabghar.github.io/Kitab_Ghar/books/#15"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>

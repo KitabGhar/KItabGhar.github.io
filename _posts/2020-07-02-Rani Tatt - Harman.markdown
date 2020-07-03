@@ -22,7 +22,7 @@ The ਜਿਸ ਦੁਨੀਆਂ ਵਿਚ ਹੁਣ ਪੰਜਾਬੀ ਹੋ�
 ਪੰਜਾਬੀ ਪਾਠਕ, ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ ਕਿ ਤੁਸੀਂ ਸਾਰੇ ਇਸ ਕਿਤਾਬ ਨੂੰ ਪੜ੍ਹੋ</strong><br><br>
 
 
-<h4><a class="add-cart cart1" href="/{{ site.baseurl }}/books#2"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="https://kitabghar.github.io/Kitab_Ghar/books/#2"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>
