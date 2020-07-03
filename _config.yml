@@ -1,5 +1,5 @@
 baseurl: "/Kitab_Ghar" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kitabghar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -26,7 +26,7 @@ include:
 
 
 # Tags:
-tag_page_dir:         /_site/tag
+tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
