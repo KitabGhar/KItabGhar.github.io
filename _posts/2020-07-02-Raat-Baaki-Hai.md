@@ -3,7 +3,7 @@ layout: post
 title:  Raat-Baaki-Hai
 date:   2020-07-1 15:01:35 +0300
 image:  11.jpg
-tags:   novel
+tags:   Novel
         jaswant-singh-kanwal
 price: 200
 ids : 10
@@ -17,7 +17,7 @@ ids : 10
 </strong>
 
 
-<h4><a class="add-cart cart1" href="https://kitabghar.github.io/Kitab_Ghar/books/#10"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#10"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>

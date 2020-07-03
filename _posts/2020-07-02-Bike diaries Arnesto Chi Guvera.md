@@ -20,7 +20,7 @@ ids : 6
 ਗੁਵੇਰਾ ਇਕ ਬਹੁਤ ਹੀ ਸਤਿਕਾਰਯੋਗ ਅਤੇ ਗੰਦੀ ਇਤਿਹਾਸਕ ਸ਼ਖਸੀਅਤ ਹੈ, ਜੋ ਕਿ ਜੀਵਨੀ, ਯਾਦਗਾਰੀ ਚਿੰਨ੍ਹ, ਲੇਖਾਂ, ਦਸਤਾਵੇਜ਼ਾਂ, ਗੀਤਾਂ ਅਤੇ ਫਿਲਮਾਂ ਦੀ ਇਕ ਸਮੂਹ ਵਿਚ ਸਮੂਹਕ ਕਲਪਨਾ ਵਿਚ ਧਰੁਵੀ ਹੈ. ਟਾਈਮ ਮੈਗਜ਼ੀਨ ਨੇ ਉਸ ਨੂੰ 20 ਵੀਂ ਸਦੀ ਦੇ 100 ਸਭ ਤੋਂ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਲੋਕਾਂ ਵਿੱਚੋਂ ਇੱਕ ਦਾ ਨਾਮ ਦਿੱਤਾ, ਜਦੋਂ ਕਿ ਮੈਰੀਲੈਂਡ ਇੰਸਟੀਚਿ .ਟ Artਫ ਆਰਟ ਦੁਆਰਾ ਉਸਦੀ ਇੱਕ "ਐਲਬੇਰਟੋ ਕੋਰਡਾ" ਦੀ ਤਸਵੀਰ "ਗੁਰੀਲੀਰੋ ਹੀਰੋਇਕੋ" ਵਜੋਂ ਘੋਸ਼ਿਤ ਕੀਤੀ ਗਈ।.</strong>
 
 
-<h4><a class="add-cart cart1" href="https://kitabghar.github.io/Kitab_Ghar/books/#6"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#6"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>
