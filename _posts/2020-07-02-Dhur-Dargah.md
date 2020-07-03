@@ -17,7 +17,7 @@ ids : 12
 </strong>
 
 
-<h4><a class="add-cart cart1" href="/{{ site.baseurl }}/books#12"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="https://kitabghar.github.io/Kitab_Ghar/books/#12"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>
