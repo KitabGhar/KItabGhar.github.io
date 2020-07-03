@@ -28,7 +28,7 @@ console.log(email);
   sendEmail(clientEmail,final,newOrder);
   sendEmail(email,final,orderPlaced);
   localStorage.clear()
-  // location.replace("https://www.youtube.com/")
+  
   }
 
   function sendEmail(x,y,z) {

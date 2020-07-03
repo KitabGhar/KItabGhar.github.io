@@ -20,7 +20,7 @@ permalink: /books/
           </div>
         </div>
         <h2 class="article__title">
-          <a href="/Kitab_Ghar/2020-07-02/{{post.title}}/">{{post.title}}</a>
+          <a href="/Kitab_Ghar/2020-07-01/{{post.title}}/">{{post.title}}</a>
         </h2>
         <h4>Price {{post.price}}</h4> 
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onClick="cartLS.add({id: {{post.ids}}, name: '{{post.title}}', price: {{post.price}}})">Add to Cart</button>
