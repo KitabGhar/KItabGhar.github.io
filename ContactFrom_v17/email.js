@@ -3,17 +3,26 @@ var clientEmail="matharooamrit0098@gmail.com"
 var clientFinal=""
 var orderPlaced="Order Placed"
 var newOrder="New Order"
-function myFunction() {
+function validation(){
   var first_name= String(document.getElementById("first-name").value);
-  var last_name= String(document.getElementById("last-name").value);
   var email= String(document.getElementById("email").value);
   var phone= String(document.getElementById("phone").value);
   var address= String(document.getElementById("address").value);
-  var state = String(document.getElementById("state").value);
   var city= String(document.getElementById("city").value);
   var pincode= String(document.getElementById("pincode").value);
+  var last_name= String(document.getElementById("last-name").value);
+  if(first_name!=null&&email!=null&&phone!=null&&address!=null&&city!=null&&pincode!=null){
+  
+  myFunction(first_name,email,phone,address,city,pincode,last_name);}
+  else{
+  alert("Enter Proper details");}
+  
+}
+function myFunction(first_name,email,phone,address,city,pincode,last_name) {
+ 
+
   var order= JSON.parse(localStorage.getItem("__cart"));
-    var product="";
+  var product="";
   var productIncart="";
   var total=0;
     for( let i=0;i<order.length;i+=1){
