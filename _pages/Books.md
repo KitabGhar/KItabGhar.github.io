@@ -16,7 +16,7 @@ permalink: /books/
       <div class="article__content ">
         <div class="article-tags">
           <div class="article-tags__box">
-            <a href="/{{ site.baseurl }}/tag/{{post.tags}}" class="article__tag">{{post.tags}}</a>
+            <a href="/kitab/tag/poetry" class="article__tag">{{post.tags}}</a>
           </div>
         </div>
         <h2 class="article__title">

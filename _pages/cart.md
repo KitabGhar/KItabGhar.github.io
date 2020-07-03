@@ -34,14 +34,14 @@ image:
 						<td></td>
 						<td></td>
 						<td></td>
-						<td class="text-right">Total: <strong class="total"></strong></td>
+						<td class="text-right">Total: <strong class="total" id="checkTotal"></strong></td>
 						<td></td>
 					</tfoot>
 				</table>
 			</div>
             <button class="btn btn-outline-warning mr-7" onClick="cartLS.destroy()">Clear Cart</button>
 			<br><br>
-			<a href="../ContactFrom_v17/index.html" class="checkout btn btn-outline-success mr-7">Checkout</a>
+			<button class="btn btn-outline-success mr-7" onClick="checkout()">Checkout</button>
 		</div>
 	</div>
 <style>
