@@ -1,17 +1,24 @@
-var final=""
+var final=" "
 var clientEmail="matharooamrit0098@gmail.com"
-var clientFinal=""
+var clientFinal=" "
 var orderPlaced="Order Placed"
 var newOrder="New Order"
+ var first_name= "x";
+  var email= "x";
+  var phone= "x";
+  var address= "x";
+  var city= "x";
+  var pincode= "x";
+  var last_name= "x";
 function validation(){
-  var first_name= String(document.getElementById("first-name").value);
-  var email= String(document.getElementById("email").value);
-  var phone= String(document.getElementById("phone").value);
-  var address= String(document.getElementById("address").value);
-  var city= String(document.getElementById("city").value);
-  var pincode= String(document.getElementById("pincode").value);
-  var last_name= String(document.getElementById("last-name").value);
-  if(first_name!=null&&email!=null&&phone!=null&&address!=null&&city!=null&&pincode!=null){
+   first_name= String(document.getElementById("first-name").value);
+   email= String(document.getElementById("email").value);
+   phone= String(document.getElementById("phone").value);
+   address= String(document.getElementById("address").value);
+   city= String(document.getElementById("city").value);
+   pincode= String(document.getElementById("pincode").value);
+   last_name= String(document.getElementById("last-name").value);
+  if((first_name!="x")&&(email!="x")&&(phone!="x")&&(address!="x")&&(city!="x")&&(pincode!="x")){
   
   myFunction(first_name,email,phone,address,city,pincode,last_name);}
   else{
