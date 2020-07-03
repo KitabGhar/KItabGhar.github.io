@@ -3,7 +3,7 @@ layout: post
 title:  Pooranmashi
 date:   2020-07-1 15:01:35 +0300
 image:  15.jpg
-tags:   Novel
+tags:   novel
         jaswant-singh-kanwal
 price: 200
 ids : 14
