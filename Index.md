@@ -121,7 +121,7 @@
       </div>
       <div class="col col-6 col-t-12">
         <div class="hero__image">
-          <img src="/kitab/images/01.jpg" alt="">
+          <img src="/kitab/images/02.jpg" alt="">
         </div>
       </div>
     </div>
