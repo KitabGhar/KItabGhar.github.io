@@ -20,7 +20,7 @@ ids : 5
 
 <h5>Price: 250 </h5>.<br>
 
-<h4><a class="add-cart cart1" href="/kitab/Books#5"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="/kitab/books#5"><b>Check Price and Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>
