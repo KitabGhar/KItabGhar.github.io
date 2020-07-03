@@ -3,7 +3,7 @@ layout: post
 title:  Sach-Nu-Faansi
 date:   2020-07-1 15:01:35 +0300
 image:  14.jpg
-tags:   Novel
+tags:   novel
         jaswant-singh-kanwal
 price: 125
 ids : 13
