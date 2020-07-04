@@ -1,0 +1,40 @@
+I"Y<body>
+<section class="categories">
+<p1><span><strong>Categories </strong></span><br /><a href="../tag/poetry">poetry  </a><a href="../tag/novel"> novel  </a><a href="../tag/stories">    stories</a><a href="../tag/history">    History</a><a href="../tag/gk">    General Knowledge</a><a href="../tag/revolutionary">     Revolutionary</a><a href="../tag/travel">    Travel</a><a href="../tag/lifestyle">  lifestyle</a></p1><br /><br />
+<p2>
+<span><strong>Authors </strong></span><br /><a href="../tag/nanak-singh">    Nanak Singh</a><a href="../tag/rana-ranbir">      Rana Ranbir   </a><a href="../tag/soohe-akhar">      Soohe Akhar</a><a href="../tag/jaswant-singh-kanwal">      Jaswant Singh Kanwal</a><a href="../tag/buta-singh-saad">   Boota Singh Saad</a>
+</p2>
+</section>
+</body>
+<style>
+body{
+    /* background-image: url('https://i.postimg.cc/RhLYkMNB/lilies-of-the-valley-2454762.jpg'); */
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+a{
+  align: center;
+  padding:50px;
+  /* margin:200px; */
+  font-size: 20px;
+  font-family: Raavi;
+  letter-spacing: 125%;
+  line-height: 200%;
+  font-weight: 900;
+  background-color:rgba(255,255,255,0.9);
+}
+@media only screen and (max-width: 600px) {
+  section{
+  padding:15px;
+  font-size: 20px;
+  letter-spacing: 10%;
+  }
+}
+span{
+
+}
+</style>
+
+:ET

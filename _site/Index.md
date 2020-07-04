@@ -1,4 +1,6 @@
-
+<div class="tags-categories">
+<p1><a href="\Kitab_Ghar\tag\poetry">poetry</a></p1>
+</div>
 <body>
 
   
@@ -80,7 +82,6 @@
     </div>
   </div>
 </div>
-
   <!-- begin content -->
   <main class="content" aria-label="Content">
     <!-- begin c-hero -->
