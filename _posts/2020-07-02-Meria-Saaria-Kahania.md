@@ -9,7 +9,7 @@ price: 495
 ids : 15
 ---
 
-<h5>Price: 495</h5>.<br>
+<h5>Price: 495</h5><br>
 
 
 <strong>
@@ -17,7 +17,7 @@ ids : 15
 </strong>
 
 
-<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#15"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#15"><b>Check Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>

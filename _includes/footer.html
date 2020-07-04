@@ -1,14 +1,5 @@
 <!-- begin footer -->
 <footer class="footer">
-  <div class="container">
-
-  
-    {% include instagram.html %}
-
-    {% include contact-link.html %}
-
-    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved. Power by <a href="https://jekyllrb.com/">Jekyll</a>.</div>
-</div>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -17,7 +8,7 @@
 <div id="mc_embed_signup" class="formS">
 <form action="https://gmail.us10.list-manage.com/subscribe/post?u=219c45851609760526a7003d0&amp;id=a7b70bf82c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h1>Subscribe</h1>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -36,5 +27,25 @@
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+<div class="container">
+
+  
+    {% include instagram.html %}
+
+    {% include contact-link.html %}
+
+    <div class="copyright">Copyright &copy; {{site.time | date: '%Y'}} <a href="/">{{ site.data.settings.title }}</a> — All right Reserved</div>
+</div>
 </footer>
+
+<style>
+    #mc-embedded-subscribe-form{
+        max-width: 80%;
+        margin: auto;
+    }
+    h1{
+        text-align: center;
+    }
+    
+</style>
 <!-- end footer -->

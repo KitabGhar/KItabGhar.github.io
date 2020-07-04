@@ -8,7 +8,7 @@ tags:   Novel
 price: 200
 ids : 14
 ---
-<h5>Price: 200</h5>.<br>
+<h5>Price: 200</h5><br>
 
 
 
@@ -17,7 +17,7 @@ ids : 14
 </strong>
 
 
-<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#14"><b>Check Price and Availability</b></a></h4>
+<h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#14"><b>Check Availability</b></a></h4>
 
 <body>
  <script src="{{ site.baseurl }}/js/main.js"></script>
