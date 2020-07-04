@@ -4,7 +4,7 @@ title:  Zindagi-Zindabad- Rana Ranbir
 date:   2018-07-24 15:01:35 +0300
 image:  03.jpg
 tags:   lifestyle
-        Rana-Ranbir
+        rana-ranbir
 price: 50
 ids: 1
 ---

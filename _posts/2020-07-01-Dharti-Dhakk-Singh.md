@@ -4,7 +4,7 @@ title:  Dharti Dhakk Singh
 date:   2020-07-1 15:01:35 +0300
 image:  34.jpg
 tags:   novel
-        boota singh saad
+        boota-singh-saad
         
 price: 150
 ids : 33
