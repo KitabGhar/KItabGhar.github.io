@@ -1,4 +1,4 @@
-I"	<head>
+I"<head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -192,7 +192,7 @@ label.light {
 }
 
 .content{
-    background-image: url('https://i.postimg.cc/RhLYkMNB/lilies-of-the-valley-2454762.jpg');
+    background-image: url('https://i.postimg.cc/xd9dwk9j/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg');
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

@@ -92,7 +92,7 @@
           <h1 class="hero__title">we have a motive <strong>reviving culture through books</strong></h1>
           <p class="hero__subtitle"></p>
           <div class="hero__social">
-            <span class="hero__social-title">Follow Me |</span>
+            <span class="hero__social-title">Follow Us |</span>
             <div class="contact">
   <ul class="contact__list list-reset">
     
@@ -121,7 +121,7 @@
       </div>
       <div class="col col-6 col-t-12">
         <div class="hero__image">
-          <img src="/kitab/images/02.jpg" alt="">
+          <img src="https://kitabghar.github.io/Kitab_Ghar/images/01.jpg" alt="photo">
         </div>
       </div>
     </div>

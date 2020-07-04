@@ -3,15 +3,37 @@ var clientEmail="matharooamrit0098@gmail.com"
 var clientFinal=""
 var orderPlaced="Order Placed"
 var newOrder="New Order"
-function myFunction() {
-  var first_name= String(document.getElementById("first-name").value);
-  var last_name= String(document.getElementById("last-name").value);
-  var email= String(document.getElementById("email").value);
-  var phone= String(document.getElementById("phone").value);
-  var address= String(document.getElementById("address").value);
-  var state = String(document.getElementById("state").value);
-  var city= String(document.getElementById("city").value);
-  var pincode= String(document.getElementById("pincode").value);
+
+  var first_name= "x";
+  var last_name= "x";
+  var email= "x";
+  var phone= "x";
+  var address= "x";
+  var state = "x";
+  var city= "x";
+  var pincode= "x";
+
+  function validator(){
+    console.log("inside validator");
+    first_name= String(document.getElementById("first-name").value);
+    last_name= String(document.getElementById("last-name").value);
+    email= String(document.getElementById("email").value);
+    phone= String(document.getElementById("phone").value);
+    address= String(document.getElementById("address").value);
+    state = String(document.getElementById("state").value);
+    city= String(document.getElementById("city").value);
+    pincode= String(document.getElementById("pincode").value);
+    console.log("variable=" ,email);
+    if((first_name==="")&&(email==="")&&(phone==="")&&(address==="")&&(state==="")&&(city==="")&&(pincode==="")){
+      alert("insufficient details");
+    }
+    else{
+      myFunction(first_name,last_name,email,phone,address,state,city,pincode);
+    }
+    
+  }
+function myFunction(first_name,last_name,email,phone,address,state,city,pincode) {
+
   var order= JSON.parse(localStorage.getItem("__cart"));
     var product="";
   var productIncart="";
@@ -28,7 +50,9 @@ console.log(email);
   sendEmail(clientEmail,final,newOrder);
   sendEmail(email,final,orderPlaced);
   localStorage.clear()
-  }
+  // window.location ="https://www.youtube.com/watch?v=XW98nx85FyU";
+
+}
 
   function sendEmail(x,y,z) {
     Email.send({

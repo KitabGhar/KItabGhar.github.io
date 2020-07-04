@@ -198,7 +198,7 @@ label.light {
 }
 
 .content{
-    background-image: url('https://i.postimg.cc/RhLYkMNB/lilies-of-the-valley-2454762.jpg');
+    background-image: url('https://i.postimg.cc/xd9dwk9j/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg');
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
