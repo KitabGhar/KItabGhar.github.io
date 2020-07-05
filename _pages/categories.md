@@ -1,14 +1,48 @@
 ---
-layout: default
-title: categories
+layout: page
+title:
 permalink: /categories/
 ---
 
 <body>
 <section class ="categories">
-<p1><span><strong>Categories </strong></span><br><a class="tag" href="../tag/poetry">poetry  </a><a class="tag" href="../tag/novel"> novel  </a><a class="tag" href="../tag/stories">    stories</a><a class="tag" href="../tag/history">    History</a><a class="tag" href="../tag/gk">    General Knowledge</a><a class="tag" href="../tag/revolutionary">     Revolutionary</a><a class="tag" href="../tag/travel">    Travel</a><a  class="tag" href="../tag/lifestyle">  lifestyle</a></p1><br><br>
-<p2>
-<span><strong>Authors </strong></span><br><a class="tag" href="../tag/nanak-singh">    Nanak Singh</a><a class="tag" href="../tag/rana-ranbir">      Rana Ranbir   </a><a class="tag" href="../tag/soohe-akhar">      Soohe Akhar</a><a class="tag" href="../tag/jaswant-singh-kanwal">      Jaswant Singh Kanwal</a><a class="tag" href="../tag/buta-singh-saad">   Boota Singh Saad</a>
-</p2>
+<p1><span><strong><h2>Categories</h2> </strong></span>
+<ul>
+<li><a class="tag" href="../tag/poetry">poetry</a></li>
+<li><a class="tag" href="../tag/novel"> novel</a></li>
+<li><a class="tag" href="../tag/stories">stories</a></li>
+<li><a class="tag" href="../tag/history">History</a></li>
+<li><a class="tag" href="../tag/gk">General Knowledge</a></li>
+<li><a class="tag" href="../tag/revolutionary">Revolutionary</a></li>
+<li><a class="tag" href="../tag/travel">Travel</a></li>
+<li><a class="tag" href="../tag/lifestyle">lifestyle</a></li>
+</ul>
+</p1><br><br>
 </section>
+<section class="authors">
+<span><strong><h2>Authors</h2> </strong></span>
+<li><a class="tag" href="../tag/nanak-singh">Nanak Singh</a></li>
+<li><a class="tag" href="../tag/rana-ranbir">Rana Ranbir</a></li>
+<li><a class="tag" href="../tag/soohe-akhar">Soohe Akhar</a></li>
+<li><a class="tag" href="../tag/jaswant-singh-kanwal">Jaswant Singh Kanwal</a></li>
+<li><a class="tag" href="../tag/buta-singh-saad">Boota Singh Saad</a></li>
+
+</section>
+<style>
+    .categories{
+        float:left;
+    }
+    .categories a{
+      text-decoration: none;
+    }
+    .authors a{
+      text-decoration: none;
+    }
+    .authors{
+        float:right;
+    }
+    .tag{
+        font-weight: 600;
+    }
+</style>
 </body>

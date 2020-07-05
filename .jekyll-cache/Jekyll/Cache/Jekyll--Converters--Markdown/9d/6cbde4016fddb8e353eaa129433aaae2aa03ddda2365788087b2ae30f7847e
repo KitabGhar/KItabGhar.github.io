@@ -1,0 +1,34 @@
+I"Œ<body>
+<section class="categories">
+<p1><span><strong>Categories </strong></span><br />
+<ul>
+<li><a class="article__tag" href="../tag/poetry">poetry</a></li>
+<li><a class="tag" href="../tag/novel"> novel</a></li>
+<li><a class="tag" href="../tag/stories">stories</a></li>
+<li><a class="tag" href="../tag/history">History</a></li>
+<li><a class="tag" href="../tag/gk">General Knowledge</a></li>
+<li><a class="tag" href="../tag/revolutionary">Revolutionary</a></li>
+<li><a class="tag" href="../tag/travel">Travel</a></li>
+<li><a class="tag" href="../tag/lifestyle">lifestyle</a></li>
+</ul>
+</p1><br /><br />
+</section>
+<section class="authors">
+<span><strong>Authors </strong></span><br />
+<li><a class="tag" href="../tag/nanak-singh">Nanak Singh</a></li>
+<li><a class="tag" href="../tag/rana-ranbir">Rana Ranbir</a></li>
+<li><a class="tag" href="../tag/soohe-akhar">Soohe Akhar</a></li>
+<li><a class="tag" href="../tag/jaswant-singh-kanwal">Jaswant Singh Kanwal</a></li>
+<li><a class="tag" href="../tag/buta-singh-saad">Boota Singh Saad</a></li>
+
+</section>
+<style>
+    .categories{
+        float:left;
+    }
+    .authors{
+        float:right;
+    }
+</style>
+</body>
+:ET
