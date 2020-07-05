@@ -13,10 +13,6 @@ ids : 17
 
 <h5>Price: 150</h5><br>
 
-<strong>
-
-</strong>
-
 
 <h4><a class="add-cart cart1" href="{{ site.baseurl }}/books#17"><b>Check Availability</b></a></h4>
 

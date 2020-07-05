@@ -26,8 +26,10 @@ permalink: /categories/
 <li><a class="tag" href="../tag/soohe-akhar">Soohe Akhar</a></li>
 <li><a class="tag" href="../tag/jaswant-singh-kanwal">Jaswant Singh Kanwal</a></li>
 <li><a class="tag" href="../tag/buta-singh-saad">Boota Singh Saad</a></li>
-
+<li><a class="tag" href="../tag/baldev-singh">Baldev Singh</a></li>
+<li><a class="tag" href="../tag/paash">Paash</a></li>
 </section>
+
 <style>
     .categories{
         float:left;
