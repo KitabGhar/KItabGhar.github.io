@@ -1,5 +1,5 @@
 var final=""
-var clientEmail="matharooamrit0098@gmail.com"
+var clientEmail="onlinekitabghar4@gmail.com"
 var clientFinal=""
 var orderPlaced="Order Placed"
 var newOrder="New Order"
@@ -24,7 +24,7 @@ function myFunction() {
   productIncart=productIncart+"<h2>Total ₹: "+String(total)+"</h2>"
 final="<html><h2>Name : "+first_name+" "+last_name+"</h2><h2>Email : "+email+"</h2><h2>Phone : "+phone+"</h2><h2>Address : "+address+"</h2><h2>State : "+state+"</h2><h2>City : "+city+"</h2><h2>Pin Code : "+pincode+"</h2><br></br><h1>Order Details</h1>"+productIncart+"</html>"
 console.log(email);
-  clientFinal=final+"<html><h1>Payment Method</h1><h2>Through paytm number : 7009261058</h2><h2>Total : ₹"+total+"</h2></html>"
+  clientFinal=final+"<html><h1>Payment Method</h1><h2>Through paytm number : 7009261058 or via Google pay: raviakali94656@okaxis </h2><h2>Total : ₹"+total+"</h2></html>"
   sendEmail(clientEmail,final,newOrder);
   sendEmail(email,clientFinal,orderPlaced);
   localStorage.clear()  
@@ -36,10 +36,10 @@ console.log(email);
   function sendEmail(x,y,z) {
     Email.send({
     Host: "smtp.gmail.com",
-    Username : "matharooamrit0098@gmail.com",
-    Password : "grandmax#2846",
+    Username : "onlinekitabghar4@gmail.com",
+    Password : "9814430133",
     To : x,
-    From : "matharooamrit0098@gmail.com",
+    From : "onlinekitabghar4@gmail.com",
     Subject : z,
     Body : y,
     }).then(

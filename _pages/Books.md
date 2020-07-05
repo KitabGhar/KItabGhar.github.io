@@ -3,7 +3,7 @@ layout: books
 title: Books
 permalink: /books/
 ---
-
+can't find a book you are looking for. please let us know in <a href="../Feedback"> feedback section</a>
 <body>
 <h1 class="heading">Books</h1>
   {% for post in site.posts %}
