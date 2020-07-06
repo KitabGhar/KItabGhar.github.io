@@ -3,7 +3,7 @@ layout: post
 title:  Anne Ghore Da Daan
 date:   2020-07-1 15:01:35 +0300
 image:  42.jpg
-tags:   Novel
+tags:   novel
         gurdiyal-singh
 
 price: 150

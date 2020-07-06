@@ -3,7 +3,7 @@ layout: post
 title:  Pavittar Paapi
 date:   2020-07-1 15:01:35 +0300
 image:  27.jpg
-tags:   Novel
+tags:   novel
         nanak-singh
         
 price: 120

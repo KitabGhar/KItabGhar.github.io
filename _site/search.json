@@ -1,9 +1,41 @@
 [
   
     {
+      "title"    : "Shaheed E Khalistan",
+      "category" : "",
+      "tags"     : "history and revolutionary",
+      "url"      : "/Kitab_Ghar/2020/07/01/shaheed-e-khalistan/",
+      "date"     : "1 Jul, 2020"
+    } ,
+  
+    {
+      "title"    : "Veehvi Sadi Sikh Raajneeti",
+      "category" : "",
+      "tags"     : "history and ajmer-singh",
+      "url"      : "/Kitab_Ghar/2020/07/01/Sikh-Raajneeti/",
+      "date"     : "1 Jul, 2020"
+    } ,
+  
+    {
+      "title"    : "Kachkol",
+      "category" : "",
+      "tags"     : "novel and amanpreet-singh-maan",
+      "url"      : "/Kitab_Ghar/2020/07/01/Kachkol/",
+      "date"     : "1 Jul, 2020"
+    } ,
+  
+    {
+      "title"    : "Kachkol",
+      "category" : "",
+      "tags"     : "stories and manmohan-bawa",
+      "url"      : "/Kitab_Ghar/2020/07/01/Kaala-Kabootar/",
+      "date"     : "1 Jul, 2020"
+    } ,
+  
+    {
       "title"    : "Sooraj Di Akh",
       "category" : "",
-      "tags"     : "Novel, biography, and baldev-singh",
+      "tags"     : "novel, biography, and baldev-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Sooraj-Di-Akh/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -11,7 +43,7 @@
     {
       "title"    : "Pinda Aale",
       "category" : "",
-      "tags"     : "Novel and premjitsingh-nainewaliea",
+      "tags"     : "novel and premjitsingh-nainewaliea",
       "url"      : "/Kitab_Ghar/2020/07/01/Pinda-Aale/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -19,7 +51,7 @@
     {
       "title"    : "parsa",
       "category" : "",
-      "tags"     : "Novel and gurdiyal-singh",
+      "tags"     : "novel and gurdiyal-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Parsa/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -27,7 +59,7 @@
     {
       "title"    : "Panjwa Sahibada",
       "category" : "",
-      "tags"     : "Novel and baldev-singh",
+      "tags"     : "novel and baldev-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Panjwa-Sahibzada/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -43,7 +75,7 @@
     {
       "title"    : "Madi-Da-Deewa",
       "category" : "",
-      "tags"     : "Novel and gurdiyal-singh",
+      "tags"     : "novel and gurdiyal-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Madi-Da-Deewa/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -67,7 +99,7 @@
     {
       "title"    : "Anne Ghore Da Daan",
       "category" : "",
-      "tags"     : "Novel and gurdiyal-singh",
+      "tags"     : "novel and gurdiyal-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Anne-Ghode-Da-Daan/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -75,7 +107,7 @@
     {
       "title"    : "Ann Daata",
       "category" : "",
-      "tags"     : "Novel and baldev-singh",
+      "tags"     : "novel and baldev-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Ann-Data/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -83,7 +115,7 @@
     {
       "title"    : "Anhoye",
       "category" : "",
-      "tags"     : "Novel and gurdiyal-singh",
+      "tags"     : "novel and gurdiyal-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Anhoye/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -139,7 +171,7 @@
     {
       "title"    : "Sach-Nu-Faansi",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Sach-Nu-Faansi/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -147,7 +179,7 @@
     {
       "title"    : "Raat-Baaki-Hai",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Raat-Baaki-Hai/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -155,7 +187,7 @@
     {
       "title"    : "Pooranmashi",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Puranmashi/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -163,7 +195,7 @@
     {
       "title"    : "Pavittar Paapi",
       "category" : "",
-      "tags"     : "Novel and nanak-singh",
+      "tags"     : "novel and nanak-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Pavittar-Paapi/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -171,7 +203,7 @@
     {
       "title"    : "Meria-Saaria-Kahania",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Meria-Saaria-Kahania/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -187,7 +219,7 @@
     {
       "title"    : "Makhiya",
       "category" : "",
-      "tags"     : "Novel and soohe-akhar",
+      "tags"     : "novel and soohe-akhar",
       "url"      : "/Kitab_Ghar/2020/07/01/Makhiya/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -195,7 +227,7 @@
     {
       "title"    : "Khoon-de-sohile",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Khoon-de-sohile/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -211,7 +243,7 @@
     {
       "title"    : "Ikk Myan Do Talwara",
       "category" : "",
-      "tags"     : "Novel and nanak-singh",
+      "tags"     : "novel and nanak-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Ikk-Myan-Do-Talwara/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -219,7 +251,7 @@
     {
       "title"    : "Ganga Jali Ch Sharab",
       "category" : "",
-      "tags"     : "Novel and nanak-singh",
+      "tags"     : "novel and nanak-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Gangajali-Ch-Sharab/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -235,7 +267,7 @@
     {
       "title"    : "Dhur-Dargah",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Dhur-Dargah/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -251,7 +283,7 @@
     {
       "title"    : "Civil-line",
       "category" : "",
-      "tags"     : "Novel and jaswant-singh-kanwal",
+      "tags"     : "novel and jaswant-singh-kanwal",
       "url"      : "/Kitab_Ghar/2020/07/01/Civil-line/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -299,7 +331,7 @@
     {
       "title"    : "Kille Naal Banneya Aadmi",
       "category" : "",
-      "tags"     : "Novel and ramsaroop-ankhi",
+      "tags"     : "novel and ramsaroop-ankhi",
       "url"      : "/Kitab_Ghar/2020/07/01/Kille-Naal-Banneya-Aadmi/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -307,7 +339,7 @@
     {
       "title"    : "Ishq",
       "category" : "",
-      "tags"     : "Novel and boota-singh-saad",
+      "tags"     : "novel and boota-singh-saad",
       "url"      : "/Kitab_Ghar/2020/07/01/Ishq/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -323,7 +355,7 @@
     {
       "title"    : "Dil Darya Samundro Dunghe",
       "category" : "",
-      "tags"     : "Novel and buta-singh-saad",
+      "tags"     : "novel and buta-singh-saad",
       "url"      : "/Kitab_Ghar/2020/07/01/Dil-Dariya-Samundro-Dunge/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -331,7 +363,7 @@
     {
       "title"    : "Dharti Dhakk Singh",
       "category" : "",
-      "tags"     : "Novel and boota-singh-saad",
+      "tags"     : "novel and boota-singh-saad",
       "url"      : "/Kitab_Ghar/2020/07/01/Dharti-Dhakk-Singh/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -339,7 +371,7 @@
     {
       "title"    : "Chitta Lahu",
       "category" : "",
-      "tags"     : "Novel and nanak-singh",
+      "tags"     : "novel and nanak-singh",
       "url"      : "/Kitab_Ghar/2020/07/01/Chitta-Lahu/",
       "date"     : "1 Jul, 2020"
     } ,
@@ -347,7 +379,7 @@
     {
       "title"    : "Baaj Bharava Sakia",
       "category" : "",
-      "tags"     : "Novel and boota-singh-saad",
+      "tags"     : "novel and boota-singh-saad",
       "url"      : "/Kitab_Ghar/2020/07/01/Baaj-Bharava-Sakia/",
       "date"     : "1 Jul, 2020"
     } ,

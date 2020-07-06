@@ -121,6 +121,7 @@
       <div class="col col-6 col-t-12">
         <div class="hero__image">
           <img src="https://kitabghar.github.io/Kitab_Ghar/images/01.jpg" alt="photo">
+
         </div>
       </div>
     </div>
@@ -133,6 +134,7 @@
 		<div class="col col-12">
 			
 				<h4 class="lates-title">Latest Books</h4>
+
 			
 		</div>
 	</div>
@@ -142,6 +144,7 @@
 	<div class="row">
 	
 		
+          <img src="{{site.baseurl}}/images/delivery.jpg" alt="Free Delivery">
 			
 <!-- begin article -->
 <div class="article">

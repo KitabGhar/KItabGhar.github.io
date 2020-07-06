@@ -3,7 +3,7 @@ layout: post
 title:  Panjwa Sahibada
 date:   2020-07-1 15:01:35 +0300
 image:  47.jpg
-tags:   Novel
+tags:   novel
         baldev-singh
 
 price: 376

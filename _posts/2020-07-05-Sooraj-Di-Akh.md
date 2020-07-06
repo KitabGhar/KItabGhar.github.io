@@ -3,7 +3,7 @@ layout: post
 title:  Sooraj Di Akh
 date:   2020-07-1 15:01:35 +0300
 image:  50.jpg
-tags:   Novel
+tags:   novel
         biography
         baldev-singh
 

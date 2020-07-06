@@ -3,7 +3,7 @@ layout: post
 title:  Raat-Baaki-Hai
 date:   2020-07-1 15:01:35 +0300
 image:  11.jpg
-tags:   Novel
+tags:   novel
         jaswant-singh-kanwal
 price: 200
 ids : 10
