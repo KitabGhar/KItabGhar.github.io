@@ -3,7 +3,7 @@ layout: post
 title:  Madi-Da-Deewa
 date:   2020-07-1 15:01:35 +0300
 image:  40.jpg
-tags:   novel
+tags:   Novel
         gurdiyal-singh
 
 price: 125

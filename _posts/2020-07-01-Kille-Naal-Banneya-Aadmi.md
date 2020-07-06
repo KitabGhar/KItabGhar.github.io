@@ -3,7 +3,7 @@ layout: post
 title:  Kille Naal Banneya Aadmi
 date:   2020-07-1 15:01:35 +0300
 image:  29.jpg
-tags:   novel
+tags:   Novel
         ramsaroop-ankhi
         
 price: 150

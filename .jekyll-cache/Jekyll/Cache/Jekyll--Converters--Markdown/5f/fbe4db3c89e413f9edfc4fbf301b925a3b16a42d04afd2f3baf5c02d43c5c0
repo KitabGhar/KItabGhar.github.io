@@ -12,7 +12,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/biography" class="article__tag">biography</a>
             
@@ -41,7 +41,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/premjitsingh-nainewaliea" class="article__tag">premjitsingh-nainewaliea</a>
             
@@ -68,7 +68,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/gurdiyal-singh" class="article__tag">gurdiyal-singh</a>
             
@@ -95,7 +95,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/baldev-singh" class="article__tag">baldev-singh</a>
             
@@ -149,7 +149,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/gurdiyal-singh" class="article__tag">gurdiyal-singh</a>
             
@@ -232,7 +232,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/gurdiyal-singh" class="article__tag">gurdiyal-singh</a>
             
@@ -259,7 +259,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/baldev-singh" class="article__tag">baldev-singh</a>
             
@@ -286,7 +286,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/gurdiyal-singh" class="article__tag">gurdiyal-singh</a>
             
@@ -475,7 +475,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/jaswant-singh-kanwal" class="article__tag">jaswant-singh-kanwal</a>
             
@@ -547,6 +547,33 @@
   <!-- end article -->
   
     <!-- begin article -->
+  <div class="article" id="26">
+  <div class="container">
+    <div class="article__wrapper">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/27.jpg)">
+      </a>
+      <div class="article__content ">
+        <div class="article-tags">
+          <div class="article-tags__box">
+             
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
+            
+              <a href="/Kitab_Ghar/tag/nanak-singh" class="article__tag">nanak-singh</a>
+            
+          </div>
+        </div>
+        <h2 class="article__title">
+          <a href="/Kitab_Ghar//2020/07/01/Pavittar-Paapi">Pavittar Paapi</a>
+        </h2>
+        <h4>Price 120</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 26, name: 'Pavittar Paapi', price: 120})">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end article -->
+  
+    <!-- begin article -->
   <div class="article" id="15">
   <div class="container">
     <div class="article__wrapper">
@@ -608,7 +635,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/soohe-akhar" class="article__tag">soohe-akhar</a>
             
@@ -689,7 +716,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/nanak-singh" class="article__tag">nanak-singh</a>
             
@@ -716,7 +743,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/nanak-singh" class="article__tag">nanak-singh</a>
             
@@ -950,33 +977,6 @@
   <!-- end article -->
   
     <!-- begin article -->
-  <div class="article" id="26">
-  <div class="container">
-    <div class="article__wrapper">
-      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/27.jpg)">
-      </a>
-      <div class="article__content ">
-        <div class="article-tags">
-          <div class="article-tags__box">
-             
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
-            
-              <a href="/Kitab_Ghar/tag/nanak-singh" class="article__tag">nanak-singh</a>
-            
-          </div>
-        </div>
-        <h2 class="article__title">
-          <a href="/Kitab_Ghar//2020/07/01/Pavittar-Paapi">Pavittar Paapi</a>
-        </h2>
-        <h4>Price 120</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 26, name: 'Pavittar Paapi', price: 120})">Add to Cart</button>
-      </div>
-    </div>
-  </div>
-</div>
-  <!-- end article -->
-  
-    <!-- begin article -->
   <div class="article" id="35">
   <div class="container">
     <div class="article__wrapper">
@@ -1013,7 +1013,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/ramsaroop-ankhi" class="article__tag">ramsaroop-ankhi</a>
             
@@ -1040,7 +1040,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/boota-singh-saad" class="article__tag">boota-singh-saad</a>
             
@@ -1094,7 +1094,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/buta-singh-saad" class="article__tag">buta-singh-saad</a>
             
@@ -1121,7 +1121,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/boota-singh-saad" class="article__tag">boota-singh-saad</a>
             
@@ -1148,7 +1148,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/nanak-singh" class="article__tag">nanak-singh</a>
             
@@ -1175,7 +1175,7 @@
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/boota-singh-saad" class="article__tag">boota-singh-saad</a>
             

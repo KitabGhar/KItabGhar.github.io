@@ -3,7 +3,7 @@ layout: post
 title:  Ganga Jali Ch Sharab
 date:   2020-07-1 15:01:35 +0300
 image:  26.jpg
-tags:   novel
+tags:   Novel
         nanak-singh
         
 price: 175

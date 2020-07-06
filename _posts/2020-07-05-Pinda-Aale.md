@@ -3,7 +3,7 @@ layout: post
 title:  Pinda Aale
 date:   2020-07-1 15:01:35 +0300
 image:  43.jpg
-tags:   novel
+tags:   Novel
         premjitsingh-nainewaliea
 
 price: 220
