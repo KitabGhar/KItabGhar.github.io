@@ -6,12 +6,12 @@ image:  33.jpg
 tags:   novel
         boota-singh-saad
         
-price: 130
+price: 150
 ids : 32
 ---
 
 
-<h5>Price: 130</h5><br>
+<h5>Price: 150</h5><br>
 
 
 

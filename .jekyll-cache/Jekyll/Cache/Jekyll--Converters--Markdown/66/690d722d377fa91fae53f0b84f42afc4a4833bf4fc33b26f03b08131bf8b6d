@@ -1,4 +1,4 @@
-I"&Ç<p>canâ€™t find a book you are looking for. please let us know in <a href="../Feedback"> feedback section</a></p>
+I"ôÆ<p>canâ€™t find a book you are looking for. please let us know in <a href="../Feedback"> feedback section</a></p>
 <body>
 <h1 class="heading">Books</h1>
   
@@ -100,10 +100,10 @@
           </div>
         </div>
         <h2 class="article__title">
-          <a href="/Kitab_Ghar//2020/07/01/Kaala-Kabootar">Kachkol</a>
+          <a href="/Kitab_Ghar//2020/07/01/Kaala-Kabootar">Kaala Kabootar</a>
         </h2>
         <h4>Price 225</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 52, name: 'Kachkol', price: 225})">Add to Cart</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 52, name: 'Kaala Kabootar', price: 225})">Add to Cart</button>
       </div>
     </div>
   </div>
@@ -275,10 +275,10 @@
   <!-- end article -->
   
     <!-- begin article -->
-  <div class="article" id="45">
+  <div class="article" id="44">
   <div class="container">
     <div class="article__wrapper">
-      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/46.jpg)">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/45.jpg)">
       </a>
       <div class="article__content ">
         <div class="article-tags">
@@ -286,17 +286,15 @@
              
               <a href="/Kitab_Ghar/tag/poetry" class="article__tag">poetry</a>
             
-              <a href="/Kitab_Ghar/tag/ghalib" class="article__tag">ghalib</a>
-            
               <a href="/Kitab_Ghar/tag/biography" class="article__tag">biography</a>
             
           </div>
         </div>
         <h2 class="article__title">
-          <a href="/Kitab_Ghar//2020/07/01/Klam-Babu-Razab-Ali">Ghalib</a>
+          <a href="/Kitab_Ghar//2020/07/01/Klam-Babu-Razab-Ali">Kalam Babu Razab Ali</a>
         </h2>
         <h4>Price 250</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 45, name: 'Ghalib', price: 250})">Add to Cart</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 44, name: 'Kalam Babu Razab Ali', price: 250})">Add to Cart</button>
       </div>
     </div>
   </div>
@@ -358,10 +356,10 @@
   <!-- end article -->
   
     <!-- begin article -->
-  <div class="article" id="48">
+  <div class="article" id="47">
   <div class="container">
     <div class="article__wrapper">
-      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/49.jpg)">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/48.jpg)">
       </a>
       <div class="article__content ">
         <div class="article-tags">
@@ -377,7 +375,7 @@
           <a href="/Kitab_Ghar//2020/07/01/Ann-Data">Ann Daata</a>
         </h2>
         <h4>Price 250</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 48, name: 'Ann Daata', price: 250})">Add to Cart</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 47, name: 'Ann Daata', price: 250})">Add to Cart</button>
       </div>
     </div>
   </div>
@@ -1139,16 +1137,16 @@
   <!-- end article -->
   
     <!-- begin article -->
-  <div class="article" id="32">
+  <div class="article" id="33">
   <div class="container">
     <div class="article__wrapper">
-      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/33.jpg)">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/34.jpg)">
       </a>
       <div class="article__content ">
         <div class="article-tags">
           <div class="article-tags__box">
              
-              <a href="/Kitab_Ghar/tag/novel" class="article__tag">novel</a>
+              <a href="/Kitab_Ghar/tag/Novel" class="article__tag">Novel</a>
             
               <a href="/Kitab_Ghar/tag/boota-singh-saad" class="article__tag">boota-singh-saad</a>
             
@@ -1157,8 +1155,8 @@
         <h2 class="article__title">
           <a href="/Kitab_Ghar//2020/07/01/Ishq">Ishq</a>
         </h2>
-        <h4>Price 150</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 32, name: 'Ishq', price: 150})">Add to Cart</button>
+        <h4>Price 130</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 33, name: 'Ishq', price: 130})">Add to Cart</button>
       </div>
     </div>
   </div>
@@ -1220,10 +1218,10 @@
   <!-- end article -->
   
     <!-- begin article -->
-  <div class="article" id="33">
+  <div class="article" id="34">
   <div class="container">
     <div class="article__wrapper">
-      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/34.jpg)">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/35.jpg)">
       </a>
       <div class="article__content ">
         <div class="article-tags">
@@ -1239,7 +1237,7 @@
           <a href="/Kitab_Ghar//2020/07/01/Dharti-Dhakk-Singh">Dharti Dhakk Singh</a>
         </h2>
         <h4>Price 150</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 33, name: 'Dharti Dhakk Singh', price: 150})">Add to Cart</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 34, name: 'Dharti Dhakk Singh', price: 150})">Add to Cart</button>
       </div>
     </div>
   </div>

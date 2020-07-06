@@ -259,6 +259,9 @@
 <loc>http://localhost:4000/Kitab_Ghar/tag/gurmeet-khidiyalvi/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Kitab_Ghar/tag/novel/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/Kitab_Ghar/tag/ramsaroop-ankhi/</loc>
 </url>
 <url>
@@ -311,9 +314,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/Kitab_Ghar/tag/sabir-ali-sabir/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Kitab_Ghar/tag/ghalib/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Kitab_Ghar/tag/paash/</loc>
