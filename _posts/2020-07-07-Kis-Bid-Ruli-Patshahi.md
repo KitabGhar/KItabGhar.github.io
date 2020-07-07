@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sikha Di Sidhantak Ghreabandi
+title:  kis Bid Ruli Patshahi
 date:   2020-07-1 15:01:35 +0300
 image:  57.jpg
 tags:   history
