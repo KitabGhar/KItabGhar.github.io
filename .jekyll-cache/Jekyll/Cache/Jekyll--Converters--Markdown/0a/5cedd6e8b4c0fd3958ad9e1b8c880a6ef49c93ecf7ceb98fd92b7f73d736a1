@@ -1,6 +1,110 @@
-I"ôÆ<p>canâ€™t find a book you are looking for. please let us know in <a href="../Feedback"> feedback section</a></p>
+I"ÕÕ<p>canâ€™t find a book you are looking for. please let us know in <a href="../Feedback"> feedback section</a></p>
 <body>
 <h1 class="heading">Books</h1>
+  
+    <!-- begin article -->
+  <div class="article">
+  <div class="container">
+    <div class="article__wrapper">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/)">
+      </a>
+      <div class="article__content ">
+        <div class="article-tags">
+          <div class="article-tags__box">
+             
+          </div>
+        </div>
+        <h2 class="article__title">
+          <a href="/Kitab_Ghar//2020/07/07/1984">1984</a>
+        </h2>
+        <h4>Price </h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: , name: '1984', price: })">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end article -->
+  
+    <!-- begin article -->
+  <div class="article" id="55">
+  <div class="container">
+    <div class="article__wrapper">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/56.jpg)">
+      </a>
+      <div class="article__content ">
+        <div class="article-tags">
+          <div class="article-tags__box">
+             
+              <a href="/Kitab_Ghar/tag/history" class="article__tag">history</a>
+            
+              <a href="/Kitab_Ghar/tag/ajmer-singh" class="article__tag">ajmer-singh</a>
+            
+          </div>
+        </div>
+        <h2 class="article__title">
+          <a href="/Kitab_Ghar//2020/07/01/Sikha-Di-Sidhantak-Ghreabandi">Sikha Di Sidhantak Ghreabandi</a>
+        </h2>
+        <h4>Price 250</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 55, name: 'Sikha Di Sidhantak Ghreabandi', price: 250})">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end article -->
+  
+    <!-- begin article -->
+  <div class="article" id="56">
+  <div class="container">
+    <div class="article__wrapper">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/57.jpg)">
+      </a>
+      <div class="article__content ">
+        <div class="article-tags">
+          <div class="article-tags__box">
+             
+              <a href="/Kitab_Ghar/tag/history" class="article__tag">history</a>
+            
+              <a href="/Kitab_Ghar/tag/ajmer-singh" class="article__tag">ajmer-singh</a>
+            
+          </div>
+        </div>
+        <h2 class="article__title">
+          <a href="/Kitab_Ghar//2020/07/01/Kis-Bid-Ruli-Patshahi">Sikha Di Sidhantak Ghreabandi</a>
+        </h2>
+        <h4>Price 400</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 56, name: 'Sikha Di Sidhantak Ghreabandi', price: 400})">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end article -->
+  
+    <!-- begin article -->
+  <div class="article" id="54">
+  <div class="container">
+    <div class="article__wrapper">
+      <a class="article__image" style="background-image: url(/Kitab_Ghar/images/55.jpg)">
+      </a>
+      <div class="article__content ">
+        <div class="article-tags">
+          <div class="article-tags__box">
+             
+              <a href="/Kitab_Ghar/tag/history" class="article__tag">history</a>
+            
+              <a href="/Kitab_Ghar/tag/ajmer-singh" class="article__tag">ajmer-singh</a>
+            
+          </div>
+        </div>
+        <h2 class="article__title">
+          <a href="/Kitab_Ghar//2020/07/01/Gadri-Babe-Kon-Sann">Gadri Babe Kon Sann</a>
+        </h2>
+        <h4>Price 450</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 54, name: 'Gadri Babe Kon Sann', price: 450})">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</div>
+  <!-- end article -->
   
     <!-- begin article -->
   <div class="article" id="53">
@@ -1290,8 +1394,8 @@
         <h2 class="article__title">
           <a href="/Kitab_Ghar//2020/07/01/Baaj-Bharava-Sakia">Baaj Bharava Sakia</a>
         </h2>
-        <h4>Price 130</h4> 
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 32, name: 'Baaj Bharava Sakia', price: 130})">Add to Cart</button>
+        <h4>Price 150</h4> 
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="cartLS.add({id: 32, name: 'Baaj Bharava Sakia', price: 150})">Add to Cart</button>
       </div>
     </div>
   </div>
