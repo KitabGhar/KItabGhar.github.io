@@ -1,15 +1,14 @@
 ---
+title: Hari Na Bachya
+date: 2020-07-01 12:01:35 Z
+tags:
+- stories
+- gurmeet-khidiyalvi
 layout: post
-title:  Hari Na Bachya
-date:   2020-07-1 15:01:35 +0300
-image:  30.jpg
-tags:   stories
-        gurmeet-khidiyalvi
-        
+image: 30.jpg
 price: 250
-ids : 29
+ids: 29
 ---
-
 
 <h5>Price: 250</h5><br>
 

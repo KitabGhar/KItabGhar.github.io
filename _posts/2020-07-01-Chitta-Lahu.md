@@ -1,15 +1,14 @@
 ---
+title: Chitta Lahu
+date: 2020-07-01 12:01:35 Z
+tags:
+- novel
+- nanak-singh
 layout: post
-title:  Chitta Lahu
-date:   2020-07-1 15:01:35 +0300
-image:  28.jpg
-tags:   novel 
-        nanak-singh
-        
+image: 28.jpg
 price: 160
-ids : 27
+ids: 27
 ---
-
 
 <h5>Price: 160</h5><br>
 

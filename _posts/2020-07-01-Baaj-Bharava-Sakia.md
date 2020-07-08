@@ -1,15 +1,14 @@
 ---
+title: Baaj Bharava Sakia
+date: 2020-07-01 12:01:35 Z
+tags:
+- novel
+- boota-singh-saad
 layout: post
-title:  Baaj Bharava Sakia
-date:   2020-07-1 15:01:35 +0300
-image:  33.jpg
-tags:   novel
-        boota-singh-saad
-        
+image: 33.jpg
 price: 150
-ids : 32
+ids: 32
 ---
-
 
 <h5>Price: 150</h5><br>
 

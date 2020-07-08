@@ -1,9 +1,10 @@
 ---
-layout: default
 title: Cart
-permalink: /cart/
-image:
+permalink: "/cart/"
+layout: default
+image: 
 ---
+
 Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
  
  <head>

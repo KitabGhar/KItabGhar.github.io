@@ -1,7 +1,6 @@
 ---
+permalink: "/categories/"
 layout: page
-title:
-permalink: /categories/
 ---
 
 <body>

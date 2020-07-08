@@ -1,9 +1,10 @@
 ---
-layout: default
 title: feedback
-permalink: /Feedback/
-image:
+permalink: "/Feedback/"
+layout: default
+image: 
 ---
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 

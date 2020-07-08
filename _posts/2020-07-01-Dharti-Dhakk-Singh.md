@@ -1,15 +1,14 @@
 ---
+title: Dharti Dhakk Singh
+date: 2020-07-01 12:01:35 Z
+tags:
+- novel
+- boota-singh-saad
 layout: post
-title:  Dharti Dhakk Singh
-date:   2020-07-1 15:01:35 +0300
-image:  35.jpg
-tags:   novel
-        boota-singh-saad
-        
+image: 35.jpg
 price: 150
-ids : 34
+ids: 34
 ---
-
 
 <h5>Price: 150</h5><br>
 

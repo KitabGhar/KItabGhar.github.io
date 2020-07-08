@@ -1,15 +1,14 @@
 ---
+title: Kille Naal Banneya Aadmi
+date: 2020-07-01 12:01:35 Z
+tags:
+- novel
+- ramsaroop-ankhi
 layout: post
-title:  Kille Naal Banneya Aadmi
-date:   2020-07-1 15:01:35 +0300
-image:  29.jpg
-tags:   novel
-        ramsaroop-ankhi
-        
+image: 29.jpg
 price: 150
-ids : 28
+ids: 28
 ---
-
 
 <h5>Price: 150</h5><br>
 
