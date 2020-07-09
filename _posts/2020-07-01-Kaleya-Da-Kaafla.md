@@ -1,14 +1,15 @@
 ---
+title: Kalleya da Kaafla
+date: 2020-07-01 12:01:35 Z
+tags:
+- narinder-singh-kapoor
+- thoughts
 layout: post
-title:  Kalleya da Kaafla
-date:   2020-07-1 15:01:35 +0300
-image:  64.jpg
-tags:   narinder-singh-kapoor
-        thoughts
-
+image: 64.jpg
 price: 300
-ids : 63
+ids: 63
 ---
+
 <h5>Price: 300</h5><br>
 <strong>ਨਰਿੰਦਰ ਸਿੰਘ ਕਪੂਰ ਦਾ ਜਨਮ 6 ਮਾਰਚ 1944 ਨੂੰ ਰਾਵਲਪਿੰਡੀ ਜ਼ਿਲ੍ਹੇ ਦੇ ਪਿੰਡ ਅੱਧੀ (ਰਸਮੀ ਤੌਰ 'ਤੇ ਭਾਰਤ, ਹੁਣ ਪਾਕਿਸਤਾਨ) ਵਿੱਚ ਹੋਇਆ ਸੀ। ਉਸ ਦਾ ਪਰਿਵਾਰ ਪੰਜਾਬ ਦੀ ਵੰਡ ਵਿੱਚ ਗ਼ਲਤ ਹੋਣ ਤੋਂ ਬਾਅਦ ਕਈ ਸ਼ਰਨਾਰਥੀ ਕੈਂਪਾਂ ਵਿੱਚ ਰਹਿ ਕੇ ਪਟਿਆਲੇ ਵਿੱਚ ਵਸ ਗਿਆ ਸੀ।
 
