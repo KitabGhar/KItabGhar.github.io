@@ -2,8 +2,8 @@
 title: Kalleya da Kaafla
 date: 2020-07-01 12:01:35 Z
 tags:
-- narinder-singh-kapoor
 - thoughts
+- narinder-singh-kapoor
 layout: post
 image: 64.jpg
 price: 300
