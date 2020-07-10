@@ -1,13 +1,13 @@
 ---
-title: Kn Min Tip Tip
-date: 2020-07-01 12:01:35 Z
+title: Kin Min Tip Tip
+date: 2020-07-01 12:01:00 Z
 tags:
 - poetry
 - rana-ranbir
-layout: post
 image: 59.jpg
 price: 125
 ids: 58
+layout: post
 ---
 
 <h5>Price: 125</h5><br>
