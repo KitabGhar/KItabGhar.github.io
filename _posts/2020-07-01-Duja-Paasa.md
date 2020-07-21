@@ -2,7 +2,6 @@
 title: Dooja Paasa
 date: 2020-07-01 12:01:35 Z
 tags:
-- 
 - dr-daljeet-singh
 layout: post
 image: 80.jpg

@@ -1,8 +1,7 @@
 ---
-title: Sach Di Bhaal 
+title: Sach Di Bhaal
 date: 2020-07-01 12:01:35 Z
 tags:
-- 
 - dr-diljeet-singh
 layout: post
 image: 73.jpg

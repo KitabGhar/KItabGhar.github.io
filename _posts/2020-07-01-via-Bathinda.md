@@ -2,7 +2,6 @@
 title: Via Bathinda
 date: 2020-07-01 12:01:35 Z
 tags:
-- 
 - jang-bahadur-goyal
 layout: post
 image: 77.jpg

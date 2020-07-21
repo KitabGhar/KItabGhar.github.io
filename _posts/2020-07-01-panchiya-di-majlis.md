@@ -2,7 +2,6 @@
 title: Panchiya-Di-Majlis
 date: 2020-07-01 12:01:35 Z
 tags:
-- 
 - fareed-ud-din-akhtar
 layout: post
 image: 72.jpg
