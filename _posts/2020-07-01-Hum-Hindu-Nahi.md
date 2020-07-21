@@ -2,7 +2,6 @@
 title: Hum Hindu Nahi
 date: 2020-07-01 12:01:35 Z
 tags:
-- 
 - kan-singh-nabha
 layout: post
 image: 78.jpg
