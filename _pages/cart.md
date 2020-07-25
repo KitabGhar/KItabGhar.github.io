@@ -5,7 +5,8 @@ layout: default
 image: 
 ---
 
-Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
+<strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br><br>
+for international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br><br>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis</strong>
  
  <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -46,6 +47,13 @@ Payments are processed manually on paytm and Google pay and orders are dispached
 		</div>
 	</div>
 <style>
+	.marq{
+		border: 3px dashed black;
+		padding:15px;
+		/* background:rgb(183,74,255); */
+		background:rgb(128,128,128);
+		background-clip: border-box;
+	}	
 	.content{
 		padding:80px 0px;
 	}

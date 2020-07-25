@@ -2,8 +2,9 @@
 permalink: "/categories/"
 layout: page
 ---
+<strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br><br>
+for international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis</strong>
 
-<body>
 <section class ="categories">
 <p1><span><strong><h2>Categories</h2> </strong></span>
 <ul>
@@ -45,5 +46,12 @@ layout: page
     .tag{
         font-weight: 600;
     }
+    .marq{
+		border: 3px dashed black;
+		padding:15px;
+		/* background:rgb(183,74,255); */
+		background:rgb(128,128,128);
+		background-clip: border-box;
+	}	
 </style>
 </body>

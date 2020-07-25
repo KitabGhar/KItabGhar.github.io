@@ -17,8 +17,10 @@ image:
 <p2>ਸਾਰੇ ਪਾਠਕਾਂ ਦਾ ਧੰਨਵਾਦ </p2>
 <br>
 <span>ਜੈ ਪੰਜਾਬ ਜੈ ਪੰਜਾਬੀ</span><br>
-<p3>ਫੋਨ ਨੰਬਰ:<br> 7009261058 <br>9780909697 <br> 9878848852<br></p3>
-<p4>ਈਮੇਲ ਪਤਾ: </p4><span type="email">onlinekitabghar4@gmail.com</span>
+<p3>ਫੋਨ ਨੰਬਰ:<br><a href="Tel:+91 7009261058">+91 7009261058 </a>
+ <br><a href="tel:+91 9780909697">+91 9780909697</a>
+ <br><a href="Tel: +91 9878848852"> +91 9878848852</a><br></p3>
+<p4>ਈਮੇਲ ਪਤਾ:<br> </p4><a href="mailto:onlinekitabghar4@gmail.com">onlinekitabghar4@gmail.com</a>
 </section>
 </body>
 <style>

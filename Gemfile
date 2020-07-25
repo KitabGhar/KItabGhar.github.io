@@ -5,4 +5,4 @@ gem "jekyll-paginate"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
 # gem "github-pages"
-# gem "tzinfo"
+gem "tzinfo"
