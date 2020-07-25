@@ -1,0 +1,71 @@
+I"ý<p><strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br /><br /></strong></p>
+
+<p><strong>For international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br /></strong></p>
+
+<p><strong>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
+</strong></p>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
+    <script src="https://unpkg.com/cart-localstorage@1.1.4/dist/cart-localstorage.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<div class="container mb-4">
+            <div class="card mb-4 shadow-sm">
+			<div class="card-header">
+				<h1>Cart</h1>
+			</div>
+			<div class="card-body table-responsive">
+				<table class="table">
+						<td><strong>Serial No.</strong></td>
+						<td><strong>Name</strong></td>
+						<td><strong>Quantity</strong></td>
+						<td><strong>Change</strong></td>
+						<td><strong>Quantity</strong></td>
+						<td class="text-right"><strong>Price</strong></td>
+					<tbody class="cart">
+					</tbody>
+					<tfoot>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td class="text-right">Total: <strong class="total" id="checkTotal"></strong></td>
+						<td></td>
+					</tfoot>
+				</table>
+			</div>
+            <button class="btn btn-outline-warning mr-7" onclick="cartLS.destroy()">Clear Cart</button>
+			<br /><br />
+			<button class="btn btn-outline-success mr-7" onclick="checkout()">Checkout</button>
+		</div>
+	</div>
+<style>
+	/* .marq{
+		border: 3px dashed black;
+		padding:15px;
+		background:rgb(183,74,255);
+		background:rgb(128,128,128);
+		background-clip: border-box;
+	}	 */
+	.content{
+		padding:80px 0px;
+	}
+	.nav__item a{
+		text-decoration:none;
+	}
+	p{
+  padding:0px 150px 0px 150px;
+}
+  @media only screen and (max-width: 600px) {
+  p{
+  padding:0px 30px 0px 30px;
+}
+}
+	</style>
+</body>
+
+:ET

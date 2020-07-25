@@ -4,8 +4,12 @@ permalink: "/books/"
 layout: books
 ---
 
-<strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in  feedback section</a></marquee><br><br>
-for international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br><br>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis</strong>
+<strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br><br></strong>
+
+<strong>For international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br></strong>
+
+<strong>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
+</strong>
 
 <body>
 <h1 class="heading">Books</h1>
@@ -40,12 +44,24 @@ for international orders please contact on Whatsapp<a href="tel:+91 70092 61058"
 p.info{
 align:centre;
 }
-.marq{
+p{
+  padding:0px 150px 0px 150px;
+}
+/* .marq{
 		border: 3px dashed black;
 		padding:15px;
-		/* background:rgb(183,74,255); */
+		background:rgb(183,74,255);
 		background:rgb(128,128,128);
 		background-clip: border-box;
-	}	
+	}	 */
+    @media only screen and (max-width: 600px) {
+  .container{
+    padding-top :15px;
+    padding-right: 15px;
+  }
+  p{
+  padding:0px 30px 0px 30px;
+}
+}
 </style>
 </body>
