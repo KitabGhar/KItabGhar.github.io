@@ -37,7 +37,7 @@ function myFunction() {
   productIncart=productIncart+"<h2>Total ₹: "+String(total1)+"</h2>"
 final="<html><h2>Name : "+first_name+" "+last_name+"</h2><h2>Email : "+email+"</h2><h2>Phone : "+phone+"</h2><h2>Address : "+address+"</h2><h2>State : "+state+"</h2><h2>City : "+city+"</h2><h2>Pin Code : "+pincode+"</h2><br></br><h1>Order Details</h1>"+productIncart+"</html>"
 console.log(email);
-  clientFinal=final+"<html><h1>Payment Method</h1><h2>Through paytm number : 7009261058 or via Google pay: raviakali94656@okaxis </h2><h2>Total : ₹"+total+"</h2></html>"
+  clientFinal=final+"<html><h1>Payment Method</h1><h2>Through paytm number : 7009261058 or via Google pay: raviakali94656@okaxis </h2><h2>Total : ₹"+String(total1)+"</h2></html>"
   sendEmail(clientEmail,final,newOrder);
   sendEmail(email,clientFinal,orderPlaced);
   localStorage.clear()  
