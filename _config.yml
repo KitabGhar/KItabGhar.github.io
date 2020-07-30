@@ -1,6 +1,6 @@
 ---
 title: Kitab Ghar
-timezone: UTC
+# timezone: UTC
 collections:
   posts:
     title: Posts

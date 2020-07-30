@@ -17,7 +17,17 @@ function renderCart(items) {
               <td class="text-right">₹${item.price}</td>
               <td class="text-right"><Button class="btn btn-primary" onClick="cartLS.remove(${item.id})">Delete</Button></td>
           </tr>`).join("")
-  $total.innerHTML = "₹" + cartLS.total()
+          console.log(cartLS.total()+30)
+
+          if(cartLS.total()>200){
+              $total.innerHTML = "₹" + cartLS.total()+"Free Delivery"}
+          else{
+              var total1= parseInt(cartLS.total())+30
+              console.log(total1)
+              
+            $total.innerHTML = `₹${total1}  Including Delivery`
+          }  
+
 }
 renderCart(cartLS.list())
 cartLS.onChange(renderCart)

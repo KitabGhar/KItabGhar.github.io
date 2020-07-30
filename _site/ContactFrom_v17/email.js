@@ -16,12 +16,25 @@ function myFunction() {
     var product="";
   var productIncart="";
   var total=0;
-    for( let i=0;i<order.length;i+=1){
+  var total1=0;
+  for( let i=0;i<order.length;i+=1){
     total=total+(order[i].price*order[i].quantity)
-        product= "<h2>Name : "+String(order[i].name)+"</h2><h2>Quantity : "+String(order[i].quantity)+"</h2><h2>Price ₹: "+String(order[i].price)+"</h2>";
+  }
+  if (total<200){
+    total1=total+30;
+    total1=`${String(total1)} Delivery added `
+
+  }if(total>=200)
+  total1=total;
+  total1=`${String(total1)}  `
+  console.log(total1);
+
+    for( let i=0;i<order.length;i+=1){
+
+      product= "<h2>Name : "+String(order[i].name)+"</h2><h2>Quantity : "+String(order[i].quantity)+"</h2><h2>Price ₹: "+String(order[i].price)+"</h2>";
         productIncart=productIncart+product+"<br></br>";
   }
-  productIncart=productIncart+"<h2>Total ₹: "+String(total)+"</h2>"
+  productIncart=productIncart+"<h2>Total ₹: "+String(total1)+"</h2>"
 final="<html><h2>Name : "+first_name+" "+last_name+"</h2><h2>Email : "+email+"</h2><h2>Phone : "+phone+"</h2><h2>Address : "+address+"</h2><h2>State : "+state+"</h2><h2>City : "+city+"</h2><h2>Pin Code : "+pincode+"</h2><br></br><h1>Order Details</h1>"+productIncart+"</html>"
 console.log(email);
   clientFinal=final+"<html><h1>Payment Method</h1><h2>Through paytm number : 7009261058 or via Google pay: raviakali94656@okaxis </h2><h2>Total : ₹"+total+"</h2></html>"
