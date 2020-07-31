@@ -6,3 +6,4 @@ gem 'jekyll-tagging'
 gem "jekyll-sitemap"
 # gem "github-pages"
 gem "tzinfo"
+gem 'jekyll-seo-tag'
