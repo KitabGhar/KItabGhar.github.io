@@ -1,5 +1,5 @@
 ---
-title: Satluj Vehanda Rha             
+title: Sooraj kade Marda Nahi         
 date: 2020-07-01 12:01:35 Z
 tags:
 - revolutionary
