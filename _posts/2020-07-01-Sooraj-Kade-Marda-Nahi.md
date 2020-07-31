@@ -1,11 +1,10 @@
 ---
-title: Satluj Vehanda Rha             
+title: Satluj Vehanda Rha
 date: 2020-07-01 12:01:35 Z
 tags:
 - revolutionary
 - biography
 - baldev-singh
-
 layout: post
 image: 88.jpg
 price: 400

@@ -5,7 +5,6 @@ tags:
 - revolutionary
 - travel
 - anuradha-beniwal
-
 layout: post
 image: 86.jpg
 price: 150
