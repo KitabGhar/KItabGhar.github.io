@@ -1,8 +1,8 @@
 ---
-title: Tuttde Hoye Mehakna        
+title: Tuttde Hoye Mehakna
 date: 2020-07-01 12:01:35 Z
 tags:
-- poetry    
+- poetry
 - ifroz-amrit
 layout: post
 image: 89.jpg

@@ -5,7 +5,6 @@ tags:
 - revolutionary
 - biography
 - baldev-singh
-
 layout: post
 image: 88.jpg
 price: 400
