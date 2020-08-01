@@ -4,13 +4,16 @@ permalink: "/cart/"
 layout: default
 image: 
 ---
-
 <strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br><br></strong>
+
 
 <strong>For international orders please contact on Whatsapp<a href="tel:+91 70092 61058">+91 70092 61058</a> or <a href="https://www.instagram.com/online_kitab_ghar/">Instagram</a> DM for shipping details<br></strong>
 
 <strong>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
 </strong>
+
+<p class="free">FREE DELIVERY ABOVE ORDER OF ₹200</p>
+
 
  <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -33,6 +36,15 @@ image:
 						<td><strong>Quantity</strong></td>
 						<td class="text-right"><strong>Price</strong></td>
 					<tbody class="cart">
+					</tbody>
+					<tbody>
+						<td><strong class="text"></strong></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td class="text-right"><strong class="delivery" id="checkTotal"></strong></td>
+						<td></td>
 					</tbody>
 					<tfoot>
 						<td></td>
@@ -71,6 +83,16 @@ image:
   p{
   padding:0px 30px 0px 30px;
 }
+}
+.free {
+  animation: color-change 1s infinite;
+  margin-bottom:10px;
+  font-size:20px;
+}
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: blue; }
+  100% { color: red; }
 }
 	</style>
 </body>
