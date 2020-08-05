@@ -3,6 +3,7 @@ title: Books
 permalink: "/books/"
 layout: books
 ---
+<p class="free">CASH ON DELIVERY ABOVE 599 </p>
 
 <strong><marquee class="marq"><a href="../Feedback">can't find a book you are looking for??. please let us know in feedback section</a></marquee><br><br></strong>
 

@@ -13,10 +13,12 @@ image:
 <strong>Payments are processed manually on paytm and Google pay and orders are dispached only after sucessful payment, you can pay at paytm: 7009261058 or google pay at: raviakali94656@okaxis
 </strong>
 
-<p class="free">FREE DELIVERY ABOVE ORDER OF ₹200</p>
+<p class="free">FREE DELIVERY ABOVE ORDER OF ₹199</p>
+<p class="free">CASH ON DELIVERY ABOVE 599 </p>
 
 
- <head>
+
+<head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
     <script src="https://unpkg.com/cart-localstorage@1.1.4/dist/cart-localstorage.min.js" type="text/javascript"></script>
