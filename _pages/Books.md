@@ -64,5 +64,16 @@ p{
   padding:0px 30px 0px 30px;
 }
 }
+.free {
+  animation: color-change 1s infinite;
+  margin-bottom:10px;
+  font-size:20px;
+  text-align: center;
+}
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: blue; }
+  100% { color: red; }
+}
 </style>
 </body>

@@ -91,6 +91,7 @@ image:
   animation: color-change 1s infinite;
   margin-bottom:10px;
   font-size:20px;
+  text-align: center;
 }
 @keyframes color-change {
   0% { color: red; }
