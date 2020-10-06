@@ -49,10 +49,10 @@ console.log(email);
   function sendEmail(x,y,z) {
     Email.send({
     Host: "smtp.gmail.com",
-    Username : "onlinekitabghar4@gmail.com",
-    Password : "9814430133",
+    Username : "environmentseekersnitj@gmail.com",
+    Password : "zevrumyntnhjhcyu",
     To : x,
-    From : "onlinekitabghar4@gmail.com",
+    From : "environmentseekersnitj@gmail.com",
     Subject : z,
     Body : y,
     }).then(
